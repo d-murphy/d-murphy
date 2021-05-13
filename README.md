@@ -7,7 +7,7 @@ I'm Dan.  I'm currently in batch at the [Recurse Center](http://recurse.com) whe
 * [Data visualization](https://d-murphy.github.io/StravaRunDataDashboard.html) of my personal running data
 * An [airport code quiz](https://d-murphy.github.io/airport-code-game/)
 
-See the pins below for the source code and project objectives.  
+See the pinned projects below for the source code and project objectives.  
 
 I have a few additional projects linked on my [portfolio](https://d-murphy.github.io/) along with my [resume](https://d-murphy.github.io/resume.html).  Reach out if you have questions!
 
