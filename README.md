@@ -4,7 +4,7 @@ I'm Dan.  I recently finished a batch at the [Recurse Center](http://recurse.com
 
 * An interactive dashboard visualizing data on [spacewalks](https://d-murphy.github.io/spacewalk-dashboard/) 
 * A page demonstrating the stages of the [medical residency match algorithm](https://residency-match-demo.herokuapp.com/) 
-* An HR [video training site](talentcheck.io) 
+* An HR [video training site](https://talentcheck.pro/) 
 * [Data visualization](https://d-murphy.github.io/StravaRunDataDashboard.html) of my personal running data
 * A hex/rgb color picker with binary controls
 
