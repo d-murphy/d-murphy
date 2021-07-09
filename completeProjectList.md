@@ -22,7 +22,7 @@ My [main showcase](https://github.com/d-murphy) is on the profile home page.  He
 * [Craiglist Car Ads Data Viz](https://www.kaggle.com/murphydan/craigslist-cars-eda) - June 2019
 * [NCAA Basketball Conference Realignment](https://www.kaggle.com/murphydan/conference-realignment-and-tourny-winners) - June 2019
 
-## Quantitative Modeling and Data Science
+## Quantitative Modeling
 * [Fines < Parking Meter Fees ?](https://www.kaggle.com/murphydan/how-often-should-you-pay-the-parking-meter) - Oct 2020
 * [NY Public Library Statistical Peers](https://murphydans.shinyapps.io/SimilarLib/) - Jan 2018
 * [PAT Index](https://patindex.wordpress.com/) - Aug 2016
