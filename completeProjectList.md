@@ -11,9 +11,7 @@ My [main showcase](https://github.com/d-murphy) is on the profile home page.  He
 * [Airport Code Quiz](https://d-murphy.github.io/airport-code-game/) - April 2021
 * [Public Library Catalog Chrome Extension](https://chrome.google.com/webstore/detail/suffolk-library-catalog-m/lnbhpkpfkegddpiopflmkjpgpphlcdoo?hl=en) - Jan 2021
 * [Retirement Calculator](https://d-murphy.github.io/reactRetCalc/) - March 2020
-* [Suffolk Library Programs](https://libproauth0.glitch.me/) - February 2020
-* 
- 
+* [Suffolk Library Programs](https://libproauth0.glitch.me/) - February 2020 
 
 ## Data Wrangling and Visualization
 * [Running Data Dashboard](https://d-murphy.github.io/StravaRunDataDashboard.html) - April 2021
@@ -23,7 +21,6 @@ My [main showcase](https://github.com/d-murphy) is on the profile home page.  He
 * [NHL Game Data Viz](https://www.kaggle.com/murphydan/checking-in-on-checks-and-other-nhl-data) - June 2019
 * [Craiglist Car Ads Data Viz](https://www.kaggle.com/murphydan/craigslist-cars-eda) - June 2019
 * [NCAA Basketball Conference Realignment](https://www.kaggle.com/murphydan/conference-realignment-and-tourny-winners) - June 2019
-* 
 
 ## Quantitative Modeling and Data Science
 * [Fines < Parking Meter Fees ?](https://www.kaggle.com/murphydan/how-often-should-you-pay-the-parking-meter) - Oct 2020
