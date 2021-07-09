@@ -10,5 +10,5 @@ I'm Dan.  I recently finished a batch at the [Recurse Center](http://recurse.com
 
 See the pinned projects below for the source code and project objectives.  
 
-There's also a complete list of my personal projects if this has left you craving more...
+There's also a complete list of my personal projects if you'd like to see more.  
 
