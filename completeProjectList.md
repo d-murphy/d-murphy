@@ -16,7 +16,7 @@ My [main showcase](https://github.com/d-murphy) is on the profile home page.  He
 ## Data Wrangling and Visualization
 * [Running Data Dashboard](https://d-murphy.github.io/StravaRunDataDashboard.html) - April 2021
 * [Radar Plots of Economic Freedom Scores](https://www.kaggle.com/murphydan/radar-plots-for-econ-freedom-scores) - Dec 2020
-* [Racing Bar Chart for Big East Men's Basketball](https://www.youtube.com/watch?v=UKgqWoTLS-E)
+* [Racing Bar Chart for Big East Men's Basketball](https://www.youtube.com/watch?v=UKgqWoTLS-E) - Dec 2020
 * [SQL Queries on NBA Player Data](https://www.kaggle.com/murphydan/sql-queries-on-nba-player-data) - Oct 2020
 * [NHL Game Data Viz](https://www.kaggle.com/murphydan/checking-in-on-checks-and-other-nhl-data) - June 2019
 * [Craiglist Car Ads Data Viz](https://www.kaggle.com/murphydan/craigslist-cars-eda) - June 2019
