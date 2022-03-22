@@ -4,6 +4,7 @@ My [main showcase](https://github.com/d-murphy) is on the profile home page.  He
 
 ## Web Dev
 
+* [Library Catalog Maps - Chrome Extension](http://catalogmaps631.com/) - Nov 2021
 * [Residency Matching Algo Demo](https://residency-match-demo.herokuapp.com/) - July 2021
 * [HR Video Training Site](https://talentcheck.pro/) - June 2021
 * [Spacewalk Dashboard](https://d-murphy.github.io/spacewalk-dashboard/) - May 2021
