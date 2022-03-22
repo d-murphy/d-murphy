@@ -10,7 +10,6 @@ My [main showcase](https://github.com/d-murphy) is on the profile home page.  He
 * [Spacewalk Dashboard](https://d-murphy.github.io/spacewalk-dashboard/) - May 2021
 * [Binary Color Picker](https://d-murphy.github.io/BinaryColorPicker/) - April 2021
 * [Airport Code Quiz](https://d-murphy.github.io/airport-code-game/) - April 2021
-* [Public Library Catalog Chrome Extension](https://chrome.google.com/webstore/detail/suffolk-library-catalog-m/lnbhpkpfkegddpiopflmkjpgpphlcdoo?hl=en) - Jan 2021
 * [Retirement Calculator](https://d-murphy.github.io/reactRetCalc/) - March 2020
 * [Suffolk Library Programs](https://libproauth0.glitch.me/) - February 2020 
 
