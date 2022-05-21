@@ -1,11 +1,17 @@
 ### Hi there
 
-I'm Dan and this is my github page.  I'm currently working as a full stack engineer.  Previously, I attended the Recurse Center and worked as a data analyst.  Here's a few things I've built on the internet:  
+Thanks for checking out the page.  I'm currently working as a software engineer in NY where I work with Node, AngularJS and Mongo.  Outside of work, here are a few things I've built through the years: 
 
-* A [chrome extension](http://catalogmaps631.com) adding maps to Suffolk County library catalog pages.
-* A demonstration of the stages of the [medical residency match algorithm](https://residency-match-demo.herokuapp.com/) 
-* An interactive dashboard visualizing data on [spacewalks](https://d-murphy.github.io/spacewalk-dashboard/) 
-* [Data visualization](https://d-murphy.github.io/StravaRunDataDashboard.html) of my personal running data
-* A [hex/rgb color picker](https://d-murphy.github.io/BinaryColorPicker/) with binary controls
+#### Web Dev
 
-There's also a [complete list](https://github.com/d-murphy/d-murphy/blob/main/completeProjectList.md) of my personal projects if you'd like to see more and track how my interests have changed over time.  
+* A [chrome extension](http://catalogmaps631.com) adding maps to library catalog pages.  (JavaScript, Serverless, AWS Lambda)
+* A demonstration of the stages of the [medical residency match algorithm](https://residency-match-demo.herokuapp.com/)  (JavaScript, NodeJS, React)
+* An interactive dashboard visualizing data on [spacewalks](https://d-murphy.github.io/spacewalk-dashboard/)  (React, D3)
+
+#### Data Analysis / Statistical Modeling
+
+* [Parking Meters < Fines?](https://www.kaggle.com/code/murphydan/how-often-should-you-pay-the-parking-meter/notebook) simulation analysis (R script)
+* [Craigslist Car Ads](https://www.kaggle.com/code/murphydan/craigslist-cars-eda/report) exploratory data analysis (R script)
+* [PAT Index](https://patindex.wordpress.com/) - a bit arcane, but a 538 style forecast for a fireman drill team contest (R scripts, R Shiny App, Wordpress blog)
+
+There's also a [complete list](https://github.com/d-murphy/d-murphy/blob/main/completeProjectList.md) of projects I've worked on.  
