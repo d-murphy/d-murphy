@@ -5,8 +5,8 @@ Thanks for checking out the page.  I'm currently working as a developer in NY at
 #### Web Dev
 
 * A web app for the [NYS FD Drill Teams](https://nysfddt.com/) to archive 60 years of event results and organize video links.
-* A [chrome extension](http://catalogmaps631.com) adding maps to library catalog pages.  (JavaScript, Serverless, AWS Lambda)
-* A demonstration of the stages of the [medical residency match algorithm](https://residency-match-demo.herokuapp.com/)  (JavaScript, NodeJS, React)
+* A [chrome extension](http://catalogmaps631.com) adding maps to library catalog pages.  
+* A demonstration of the stages of the [medical residency match algorithm](https://residency-match-demo.herokuapp.com/)
 * An interactive dashboard visualizing data on [spacewalks](https://d-murphy.github.io/spacewalk-dashboard/)  (React, D3)
 
 #### Data Analysis / Statistical Modeling
