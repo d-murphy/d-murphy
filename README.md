@@ -4,7 +4,7 @@ Thanks for checking out the page.  I'm currently working as a developer in NY at
 
 #### Web Dev
 
-* A web app for the [NYS FD Drill Teams](https://nysfddt.com/) to archive 60 years of event results and organize video links.
+* A web app for the [NYS FD Drill Teams](https://nysfddrillteams.com/) to archive 60 years of event results and organize video links.
 * A [chrome extension](http://catalogmaps631.com) adding maps to library catalog pages.  
 * An interactive dashboard visualizing data on [spacewalks](https://d-murphy.github.io/spacewalk-dashboard/)  (React, D3)
 
