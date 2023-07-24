@@ -1,12 +1,11 @@
 ### Hi there
 
-Thanks for checking out the page.  I'm currently working as a developer in NY at [Thrive](https://thrivenextgen.com/), an IT service provider.  In my role, I build internal web applications with a Node / Express, React, Mongo stack.  Outside of work, here are a few things I've built through the years: 
+Thanks for checking out the page.  I'm currently working as a developer in NY at [Thrive](https://thrivenextgen.com/), an IT managed service provider.  In my role, I build internal web applications with a Node / Express, React, Mongo stack.  Here are a few projects I've worked on outside of work: 
 
 #### Web Dev
 
 * A web app for the [NYS FD Drill Teams](https://nysfddt.com/) to archive 60 years of event results and organize video links.
 * A [chrome extension](http://catalogmaps631.com) adding maps to library catalog pages.  
-* A demonstration of the stages of the [medical residency match algorithm](https://d-murphy.github.io/MedicalResidentMatchDemo/).
 * An interactive dashboard visualizing data on [spacewalks](https://d-murphy.github.io/spacewalk-dashboard/)  (React, D3)
 
 #### Data Analysis / Statistical Modeling
