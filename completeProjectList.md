@@ -27,7 +27,7 @@ My [main showcase](https://github.com/d-murphy) is on the profile home page.  He
 * [NCAA Basketball Conference Realignment](https://www.kaggle.com/murphydan/conference-realignment-and-tourny-winners) - June 2019
 
 ## Quantitative Modeling / Data Analysis
-* [Bingo Simulation Analysis]()
+* [Bingo Simulation Analysis](https://github.com/d-murphy/BingoSim)
 * [Fines < Parking Meter Fees ?](https://www.kaggle.com/murphydan/how-often-should-you-pay-the-parking-meter) - Oct 2020
 * [NY Public Library Statistical Peers](https://murphydans.shinyapps.io/SimilarLib/) - Jan 2018
 * [PAT Index](https://patindex.wordpress.com/) - Aug 2016
