@@ -1,4 +1,4 @@
-Hi, Thanks for visiting.  I'm currently working as a Developer at [Thrive](https://thrivenextgen.com/) in NY, where I build and maintain web applications intregrated with ServiceNow.  I've also created these projects around the web: 
+Hi, Thanks for visiting.  I'm currently working as a Developer at [Thrive](https://thrivenextgen.com/) in NY.  Here's a few of my favorite outside projects:  
 
 * [NYS FD Drill Teams](https://nysfddrillteams.com/) - a competition archive.  
 * [Dash Web](https://dashweb.net) - a website builder.
